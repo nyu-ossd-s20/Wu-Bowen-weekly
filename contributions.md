@@ -25,7 +25,7 @@ Replace the first row with your own contribution.
 | Feb 29   |  https://www.openstreetmap.org/changeset/81633069#map=19/40.74760/-73.94171&layers=N   | OpenStreet Map feature    |   I added name to a location    |
 |  Mar 22   |  https://en.wikipedia.org/w/index.php?title=East_Lyme,_Connecticut&oldid=946820219   |  Wikipedia Edit   |   Fixed Grammar   |
 |  Mar 22   |  https://en.wikipedia.org/w/index.php?title=Ben_Mahmoud&oldid=946825072   |  Wikipedia Edit   |   Removed nonexisting link   |
-|     |     |     |      |
+|  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Ben_Mahmoud&oldid=946826152  |   Wikipedia Edit  |   Added more information about Ben Mahmoud   |
 |     |     |     |      |
 |     |     |     |      |
 |     |     |     |      |
