@@ -30,5 +30,7 @@ Replace the first row with your own contribution.
 |  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Phylloxylon_spinosa&oldid=946828186  |  Wikipedia Edit  |   Added Reference for Phylloxylon spinosa   |
 |  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Phylloxylon_spinosa&oldid=946828546  |  Wikipedia Edit  |   Fixed Link for Phylloxylon spinosa   |
 |  Mar 29   |   https://en.wikipedia.org/w/index.php?title=Maurice_Lafforgue&oldid=947998054  |  Wikipedia Edit   |   Fixed Birthdate of Maurice Lafforgue   |
-|     |     |     |      |
+|  Mar 29   |   https://www.openstreetmap.org/changeset/82784737  |   OpenStreet Map Feature  |   Changed Name of newly opened Restaurant   |
+|  Mar 29   |   https://en.wikipedia.org/w/index.php?title=Maurice_Lafforgue&oldid=947998124  |   Wikipedia Edit  |   Fixed Category Link   |
+|     |      |     |      |
 
