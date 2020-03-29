@@ -1,0 +1,17 @@
+---
+layout: post
+title: Week 9 - Post Spring Break
+---
+
+Last week was spring break, so I didn't end up posting, however, I am back now and will continue with the regular weekly blog post. Today we will talk about what the coronavirus means for the rest of my semester as well as what I ended up doing this week. 
+
+# End of the Semester?
+If you look below you see what the Email title of what received during spring break.
+![Hamilton's Email](../images/hamilton.png)
+So how does this affect me? Because I had lived off campus, it doesn't mean I have to move out, but I have relocated back to Connecticut to wait out the virus (New York is a bit scary, especially Queens where my apartment was). While I don't have to move out, its a bit sad seeing the rent go to waste as noone is living in my apartment any more. Also, now that we are remote for the rest of the semester, it means that all my classes are now online as well. Hopefully, I'm able to stay as concentrated as I would be if I were in school (but most likely not the case). For the rest of the break, I will hopefully be able to consistently meet up with my group for our Gatsby.js project which I'll mention below.
+
+# This Week's Classes
+So we had an in-class assignment which extended 2 classes on rebasing. The assignment details can be found [here](https://cs.nyu.edu/~joannakl/ossd_s20/activities/git_rebase.html). The first day I think everyone was a bit confused on how to proceed, so not too much progress was made. However, on class 2, my group definitely was able to get more done. If you want to see what we did you can go to room 10 at this [pad.riseup link](https://pad.riseup.net/p/ossd_git_rebase) and see our progression. My biggest takeaways is to use *git log --graph --oneline --all* to see the log of commits in different branches. 
+
+# Group Project - Gatsby.j
+Another thing accomplished this week was that we were able to schedule a meeting with Joanna about our project Gatsby.js. She liked what we did as progress, but also recommended us to get in touch with some developers on the team. So, I plan to send an email to [Marcy Sutton](https://twitter.com/marcysutton), Head of Learning at Gatsby to learn more on how we can contribute and some tips we should know before we handle any issues. 
