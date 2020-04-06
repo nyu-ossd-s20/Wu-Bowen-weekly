@@ -32,5 +32,7 @@ Replace the first row with your own contribution.
 |  Mar 29   |   https://en.wikipedia.org/w/index.php?title=Maurice_Lafforgue&oldid=947998054  |  Wikipedia Edit   |   Fixed Birthdate of Maurice Lafforgue   |
 |  Mar 29   |   https://www.openstreetmap.org/changeset/82784737  |   OpenStreet Map Feature  |   Changed Name of newly opened Restaurant   |
 |  Mar 29   |   https://en.wikipedia.org/w/index.php?title=Maurice_Lafforgue&oldid=947998124  |   Wikipedia Edit  |   Fixed Category Link   |
+|  Apr 06   |   https://en.wikipedia.org/w/index.php?title=Ceylonthelphusa_durrelli&oldid=949499539  |   Wikipedia Edit  |   Added more info for Ceylonthelphusa durrelli   |
+|  Apr 06   |   https://en.wikipedia.org/w/index.php?title=Ceylonthelphusa_durrelli&oldid=949500403  |   Wikipedia Edit  |   Added Reference for Ceylonthelphusa durrelli   |
 |     |      |     |      |
 
